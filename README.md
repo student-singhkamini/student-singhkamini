@@ -4,7 +4,7 @@
 
 <!-- <h1 align="center">I'm Kamini Singh! 👩‍💻</h1> -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=45&duration=2000&color=9C27B0&center=true&vCenter=true&width=500&lines=Hii+there|I+am+Kamini+Singh|Welcome+to+my+profile!" alt="Animated Heading">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&duration=2000&color=00BFFF^FF00FF^FFD700&center=true&vCenter=true&width=500&lines=HII+there|I+am+yourname|welcome+to+my+profile!" alt="Animated Heading">
 </p>
 
 <h2 align="center">
