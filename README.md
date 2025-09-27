@@ -4,8 +4,12 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=5000&color=FFEB3B&center=true&lines=Hii+👋;I+am+Kamini+Singh;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=2000&color=FFEB3B&center=true&lines=Hii+👋;I+am+Kamini+Singh;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=40&duration=6000&color=FF69B4&center=true&width=800&lines=Hey+👋;I+am+Kamini+Singh;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+</p>
+
 
 
 
