@@ -9,6 +9,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=3000&color=1E90FF&&center=true&width=800&lines=Hey+👋;I+am+Kamini+Singh;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=40&duration=6000&center=true&width=800&lines=%F0%9F%91%8B+Hey&color=87CEEB;I+am+Kamini+Singh&color=1E90FF;Welcome+to+my+GitHub+Profile!&color=00BFFF" alt="Typing SVG">
+</p>
+
 
 
 
