@@ -28,10 +28,11 @@ Tech Enthusiast
 </p>
 
 
- ## 
+
  <h2 align="center">⚒️ Tech Stack</h2>
 
- ### 💻 Languages · Frameworks · Tools
+ 
+ <h2 align="center">💻 Languages · Frameworks · Tools</h2>
 <p align="center">
  
   <!-- Tech Stack Icons -->
@@ -56,7 +57,8 @@ Tech Enthusiast
 </p>
 
 ---
- ## 📊 GitHub Stats
+
+ <h2 align="center"> 📊 GitHub Stats💻</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=student-singhkamini&show_icons=true&theme=radical" alt="stats"/><br/>
