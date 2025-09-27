@@ -3,9 +3,9 @@
 
 
 <!-- <h1 align="center">I'm Kamini Singh! 👩‍💻</h1> -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=40&duration=3000&color=FFEB3B&center=true&vCenter=true&width=500&lines=I+am+Kamini+Singh!" alt="Typing SVG">
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=45&duration=2000&color=9C27B0&center=true&vCenter=true&width=500&lines=Hii+there|I+am+Kamini+Singh|Welcome+to+my+profile!" alt="Animated Heading">
+</p>
 
 <h2 align="center">
 Tech Enthusiast
