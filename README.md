@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&duration=2000&color=00BFFF^FF00FF^FFD700&center=true&vCenter=true&width=500&lines=HII+there|I+am+yourname|welcome+to+my+profile!" alt="Animated Heading">
 </p> -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=30&duration=2000&color=00FFFF&center=true&vCenter=true&width=500&lines=HII+there|I+am+yourname|welcome+to+my+profile!" alt="Animated Heading">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&duration=2000&pause=4000&color=00BFFF^FF00FF^FFD700&center=true&vCenter=true&width=500&lines=Hii+there|I+am+Kamini+Singh|Welcome+to+my+profile!" alt="Animated Heading">
 </p>
 
 <h2 align="center">
