@@ -16,10 +16,9 @@ A passionate software developer from India
 </p>
 
 
+ ## ⚒️ Tech Stack
 
-                                                                  ## ⚒️ Tech Stack
-
-                                                                ### 💻 Languages · Frameworks · Tools
+ ### 💻 Languages · Frameworks · Tools
 <p align="center">
  
   <!-- Tech Stack Icons -->
@@ -44,11 +43,10 @@ A passionate software developer from India
 </p>
 
 ---
-
-                                                                                         ## 📊 GitHub Stats
+ ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=student-singhkamini&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=student-singhkamini&show_icons=true&theme=radical" alt="stats"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-singhkamini&layout=compact&theme=radical" alt="languages"/>
 </p>
 
