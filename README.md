@@ -4,7 +4,10 @@
 
 <h1 align="center">I'm Kamini Singh! 👩‍💻</h1>
 <p align="center">
-A passionate software developer from India
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=40&duration=2000&color=FFEB3B&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+</p>
+<p align="center">
+Tech Enthusiast
 </p>
 
 
