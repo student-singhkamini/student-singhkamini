@@ -3,16 +3,11 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=3000&center=true&width=900&lines=%F0%9F%91%8B+Hii;I+am+Kamini+Singh;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" style="background: linear-gradient(90deg, #0f3e6d, #1E3A8A, #27408B); -webkit-background-clip: text; color: transparent;">
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=5000&color=FFEB3B&center=true&width=800&lines=Hii+👋;I+am+Kamini+Singh;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=6000&center=true&width=900&lines=%F0%9F%91%8B+Hii;I+am+Kamini+Singh;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" style="background: linear-gradient(90deg, #00BFFF, #1E90FF, #87CEEB); -webkit-background-clip: text; color: transparent;">
-</p>
+
 
 
 
