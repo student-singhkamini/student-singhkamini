@@ -2,23 +2,18 @@
 
 
 
-<!-- <h1 align="center">I'm Kamini Singh! 👩‍💻</h1> -->
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&duration=2000&color=00BFFF^FF00FF^FFD700&center=true&vCenter=true&width=500&lines=HII+there|I+am+yourname|welcome+to+my+profile!" alt="Animated Heading">
-</p> -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=40&duration=5000&color=FFEB3B&center=true&lines=Hey+👋;I+am+Kamini+Singh;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=5000&color=FFEB3B&center=true&lines=Hii+👋;I+am+Kamini+Singh;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
 </p>
 
 
 
 
-<h2 align="center">
+<h3 align="center">
 Tech Enthusiast
 </h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=40&duration=5000&color=FFEB3B&center=true&vCenter=true&width=500&lines=WWelcome+to+my+GitHub+Profile!" alt="Typing SVG">
-</p>
+
 
 
 
