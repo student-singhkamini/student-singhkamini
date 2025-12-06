@@ -54,10 +54,10 @@
 
  <h2 align="center"> 📊 GitHub Stats💻</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=student-singhkamini&show_icons=true&theme=radical" alt="stats"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-singhkamini&layout=compact&theme=radical" alt="languages"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=student-singhkamini&theme=react-dark" alt="activity graph"/>
